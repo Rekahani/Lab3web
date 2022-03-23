@@ -92,7 +92,7 @@ Tampilan **Dropdown** menu
 
 ![1012.png](img/1012.png)
 
-*Syntax **Listbox** dengan **multiple section**
+*Syntax* **Listbox** dengan **multiple section**
 
 ![1001.png](img/1001.png)
 
